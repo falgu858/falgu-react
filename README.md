@@ -1,4 +1,4 @@
 ## Create React App Visualization
 
 Read more about this assessment here
-# falgu_eog-react-assessment
+# download project and unzip the node_modules folder
