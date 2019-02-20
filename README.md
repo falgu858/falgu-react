@@ -1,4 +1,5 @@
 ## Create React App Visualization
 
 Read more about this assessment here
-# download project and unzip the node_modules folder
+Download project and unzip the node_modules folder
+Need to run with yarn
